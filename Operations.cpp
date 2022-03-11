@@ -36,5 +36,5 @@ int division(int a, int b)
 	return resultat;
 }
 
-print (fatihTbo);
+print (fatihTbo2);
 
