@@ -57,4 +57,8 @@ int exposant(int nb, int exp)
 
 }
 
+int NombrePremier(int nb)
+{
+	return resultat
+}
 
