@@ -36,6 +36,7 @@ int division(int a, int b)
 	return resultat;
 }
 
+
 int factoriel(int nb)
 {
 	int resultat;
@@ -45,6 +46,15 @@ int factoriel(int nb)
 		resultat = i * resultat;
 	}
 	return resultat ;
+
+int exposant(int nb, int exp)
+{
+	int resultat;
+	
+	resultat = nb^exp;
+	
+	return resultat;
+
 }
 
 
